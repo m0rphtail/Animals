@@ -1,6 +1,6 @@
 # Make a digital animal.
 It needs food, water, air.
-It moves
+Also, it moves.
 
 ## Try it out
 
