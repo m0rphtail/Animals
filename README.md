@@ -5,5 +5,5 @@ Also, it moves.
 ## Try it out
 
 ```sh
-node animal.js
+node main.js
 ```
