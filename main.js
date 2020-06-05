@@ -1,6 +1,5 @@
-let A = require('./animal');
-let mov = require('./move');
+let A = require('./parser');
 
-mov.move(2);
-console.log("Hunger: " +mov.hunger);
-console.log("Thirst: " +mov.thirst);
+let ord = A.order;
+
+console.log(ord);
